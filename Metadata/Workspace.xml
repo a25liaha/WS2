@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{dacefd59-cd31-4378-b4e8-4a2c9f5e1f0e}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Documents/GitHub/Unity_3D-Gamekit_Student_2026/Assets/Plugins/FMOD/Banks</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{4d7b133e-f6f1-433f-8e81-05cecaf54d17}</destination>
 		</relationship>

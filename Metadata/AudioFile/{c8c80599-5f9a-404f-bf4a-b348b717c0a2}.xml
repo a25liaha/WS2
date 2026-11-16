@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c8c80599-5f9a-404f-bf4a-b348b717c0a2}">
+		<property name="assetPath">
+			<value>BossMusic1/BossMusic1 (Strings) 80 Bpm.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>36.048000000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f00e520-cbbf-49d9-a217-1dabf4efc129}</destination>
+		</relationship>
+	</object>
+</objects>
