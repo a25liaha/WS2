@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{faed513b-c62f-4c72-932b-dde7690d2caa}">
+		<property name="assetPath">
+			<value>MusicTheme2/Synthpad/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f00e520-cbbf-49d9-a217-1dabf4efc129}</destination>
+		</relationship>
+	</object>
+</objects>

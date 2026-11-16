@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{a37a0353-ba49-4082-afd7-aa82f045340c}">
+		<property name="assetPath">
+			<value>MusicTheme1/Violin/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0f00e520-cbbf-49d9-a217-1dabf4efc129}</destination>
+		</relationship>
+	</object>
+</objects>

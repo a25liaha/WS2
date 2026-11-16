@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{58d591e6-fa2c-4c18-bbbe-be9762c7126e}">
 		<property name="assetPath">
-			<value>BossMusic1/BossMusic1 (Drums) 80 Bpm.mp3</value>
+			<value>BossMusic1/Drums/BossMusic1 (Drums) 80 Bpm.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

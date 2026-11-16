@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1bf10339-ad7b-4a1a-a9dd-067d26d43a8e}">
 		<property name="assetPath">
-			<value>MusicTheme2/MusicTheme2 (Guitar2) 80 Bpm.mp3</value>
+			<value>MusicTheme2/Guitar/MusicTheme2 (Guitar2) 80 Bpm.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
